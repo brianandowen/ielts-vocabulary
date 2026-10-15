@@ -1,0 +1,53 @@
+{
+  "source_pdf_count": 6,
+  "total_pages": 1079,
+  "page_scan_processed": 1079,
+  "word_entries_total": 3923,
+  "quizzable_verified": 1470,
+  "quizzable_ocr_review": 582,
+  "index_only": 1871,
+  "synonym_groups": 119,
+  "affix_groups": 80,
+  "collins_ocr_corrections_suggested": 500,
+  "curated_zh_pairs_applied": 705,
+  "source_policy": "PDF is sole word-list source; short Chinese additions used only for words appearing in PDFs. OCR and contextual synonyms require source checking.",
+  "files": [
+    {
+      "document_id": "pdf1",
+      "name": "雅思听阅高分同替和逻辑词表（可打印）.pdf",
+      "pages": 17
+    },
+    {
+      "document_id": "pdf2",
+      "name": "雅思阅读高频词根词缀 表（7-8分版，可打印）.pdf",
+      "pages": 12
+    },
+    {
+      "document_id": "pdf3",
+      "name": "阅读单词小范围高频体系.pdf",
+      "pages": 24
+    },
+    {
+      "document_id": "pdf4",
+      "name": "雅思哥听力在考机经词库.pdf",
+      "pages": 102
+    },
+    {
+      "document_id": "pdf5",
+      "name": "柯林斯雅思分级词汇（中级） 适合5.5-6.5.pdf",
+      "pages": 514
+    },
+    {
+      "document_id": "pdf6",
+      "name": "柯林斯雅思分级词汇（高级） 适合7+.pdf",
+      "pages": 410
+    }
+  ],
+  "notes": [
+    "全文 OCR 處理不等同每個詞條皆被正確辨識",
+    "柯林斯詞條若未能正確取得詞義，仍保留在索引及待核對清單",
+    "同義替換群組按教材語境，不代表全部可在句中互換"
+  ],
+  "pdf_synonym_glosses_extracted": 396,
+  "pdf_synonym_additional_ready_words": 185
+}

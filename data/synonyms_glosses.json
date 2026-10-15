@@ -1,0 +1,1586 @@
+{
+ "increase": {
+  "meaning": "增加",
+  "page": 1
+ },
+ "soar": {
+  "meaning": "激增",
+  "page": 1
+ },
+ "surge": {
+  "meaning": "猛增",
+  "page": 1
+ },
+ "boost": {
+  "meaning": "提升",
+  "page": 1
+ },
+ "escalate": {
+  "meaning": "逐步增加",
+  "page": 1
+ },
+ "ascend": {
+  "meaning": "上升",
+  "page": 1
+ },
+ "augment": {
+  "meaning": "增加",
+  "page": 1
+ },
+ "decrease": {
+  "meaning": "減少",
+  "page": 1
+ },
+ "drop": {
+  "meaning": "下降",
+  "page": 1
+ },
+ "fall": {
+  "meaning": "下降",
+  "page": 1
+ },
+ "diminish": {
+  "meaning": "減少",
+  "page": 1
+ },
+ "dwindle": {
+  "meaning": "逐漸減少",
+  "page": 1
+ },
+ "reduce": {
+  "meaning": "減少",
+  "page": 1
+ },
+ "cut": {
+  "meaning": "削減",
+  "page": 1
+ },
+ "lessen": {
+  "meaning": "減輕",
+  "page": 1
+ },
+ "change": {
+  "meaning": "改變",
+  "page": 1
+ },
+ "modify": {
+  "meaning": "調整",
+  "page": 1
+ },
+ "transform": {
+  "meaning": "轉變",
+  "page": 1
+ },
+ "shift": {
+  "meaning": "轉變",
+  "page": 1
+ },
+ "adjust": {
+  "meaning": "調整",
+  "page": 1
+ },
+ "vary": {
+  "meaning": "變化",
+  "page": 1
+ },
+ "convert": {
+  "meaning": "轉換",
+  "page": 1
+ },
+ "keep": {
+  "meaning": "保持",
+  "page": 1
+ },
+ "preserve": {
+  "meaning": "保存",
+  "page": 1
+ },
+ "retain": {
+  "meaning": "保留",
+  "page": 1
+ },
+ "sustain": {
+  "meaning": "維持",
+  "page": 1
+ },
+ "hold": {
+  "meaning": "保持",
+  "page": 1
+ },
+ "create": {
+  "meaning": "創造",
+  "page": 1
+ },
+ "devise": {
+  "meaning": "設計",
+  "page": 1
+ },
+ "generate": {
+  "meaning": "產生",
+  "page": 1
+ },
+ "produce": {
+  "meaning": "製造",
+  "page": 1
+ },
+ "establish": {
+  "meaning": "建立",
+  "page": 1
+ },
+ "found": {
+  "meaning": "創立",
+  "page": 1
+ },
+ "forge": {
+  "meaning": "打造",
+  "page": 1
+ },
+ "destroy": {
+  "meaning": "破壞",
+  "page": 1
+ },
+ "devastate": {
+  "meaning": "摧毀",
+  "page": 1
+ },
+ "eradicate": {
+  "meaning": "根除",
+  "page": 1
+ },
+ "eliminate": {
+  "meaning": "消除",
+  "page": 1
+ },
+ "damage": {
+  "meaning": "損害",
+  "page": 1
+ },
+ "ruin": {
+  "meaning": "毀滅",
+  "page": 1
+ },
+ "undermine": {
+  "meaning": "破壞",
+  "page": 1
+ },
+ "find": {
+  "meaning": "發現",
+  "page": 1
+ },
+ "identify": {
+  "meaning": "識別",
+  "page": 1
+ },
+ "detect": {
+  "meaning": "探測",
+  "page": 1
+ },
+ "ascertain": {
+  "meaning": "查明",
+  "page": 1
+ },
+ "uncover": {
+  "meaning": "揭露",
+  "page": 1
+ },
+ "use": {
+  "meaning": "使用",
+  "page": 1
+ },
+ "employ": {
+  "meaning": "運用",
+  "page": 1
+ },
+ "adopt": {
+  "meaning": "採用",
+  "page": 1
+ },
+ "apply": {
+  "meaning": "應用",
+  "page": 1
+ },
+ "abandon": {
+  "meaning": "放棄",
+  "page": 2
+ },
+ "desert": {
+  "meaning": "拋棄",
+  "page": 2
+ },
+ "quit": {
+  "meaning": "放棄",
+  "page": 2
+ },
+ "abort": {
+  "meaning": "中止",
+  "page": 2
+ },
+ "renounce": {
+  "meaning": "放棄",
+  "page": 2
+ },
+ "explain": {
+  "meaning": "解釋",
+  "page": 2
+ },
+ "clarify": {
+  "meaning": "澄清",
+  "page": 2
+ },
+ "interpret": {
+  "meaning": "解讀",
+  "page": 2
+ },
+ "elaborate": {
+  "meaning": "詳述",
+  "page": 2
+ },
+ "show": {
+  "meaning": "說明",
+  "page": 2
+ },
+ "indicate": {
+  "meaning": "表明",
+  "page": 2
+ },
+ "reveal": {
+  "meaning": "揭示",
+  "page": 2
+ },
+ "reflect": {
+  "meaning": "反映",
+  "page": 2
+ },
+ "manifest": {
+  "meaning": "顯現",
+  "page": 2
+ },
+ "think": {
+  "meaning": "認為",
+  "page": 2
+ },
+ "assume": {
+  "meaning": "假定",
+  "page": 2
+ },
+ "presume": {
+  "meaning": "推定",
+  "page": 2
+ },
+ "maintain": {
+  "meaning": "主張",
+  "page": 2
+ },
+ "contend": {
+  "meaning": "聲稱",
+  "page": 2
+ },
+ "argue": {
+  "meaning": "認為",
+  "page": 2
+ },
+ "ignore": {
+  "meaning": "忽視",
+  "page": 2
+ },
+ "overlook": {
+  "meaning": "忽略",
+  "page": 2
+ },
+ "disregard": {
+  "meaning": "漠視",
+  "page": 2
+ },
+ "support": {
+  "meaning": "支持",
+  "page": 2
+ },
+ "uphold": {
+  "meaning": "維護",
+  "page": 2
+ },
+ "advocate": {
+  "meaning": "提倡",
+  "page": 2
+ },
+ "endorse": {
+  "meaning": "認可",
+  "page": 2
+ },
+ "oppose": {
+  "meaning": "反對",
+  "page": 2
+ },
+ "reject": {
+  "meaning": "拒絕",
+  "page": 2
+ },
+ "counter": {
+  "meaning": "反駁",
+  "page": 2
+ },
+ "contradict": {
+  "meaning": "反駁",
+  "page": 2
+ },
+ "protest": {
+  "meaning": "抗議",
+  "page": 2
+ },
+ "agree": {
+  "meaning": "同意",
+  "page": 2
+ },
+ "consent": {
+  "meaning": "同意",
+  "page": 2
+ },
+ "assent": {
+  "meaning": "同意",
+  "page": 2
+ },
+ "accord": {
+  "meaning": "符合",
+  "page": 2
+ },
+ "concurr": {
+  "meaning": "贊同",
+  "page": 2
+ },
+ "doubt": {
+  "meaning": "質疑",
+  "page": 2
+ },
+ "query": {
+  "meaning": "詢問",
+  "page": 2
+ },
+ "suspect": {
+  "meaning": "懷疑",
+  "page": 2
+ },
+ "challenge": {
+  "meaning": "質疑",
+  "page": 2
+ },
+ "research": {
+  "meaning": "研究",
+  "page": 2
+ },
+ "explore": {
+  "meaning": "探索",
+  "page": 2
+ },
+ "examine": {
+  "meaning": "研究",
+  "page": 2
+ },
+ "probe": {
+  "meaning": "探究",
+  "page": 2
+ },
+ "study": {
+  "meaning": "研究",
+  "page": 2
+ },
+ "analyze": {
+  "meaning": "分析",
+  "page": 2
+ },
+ "experiment": {
+  "meaning": "實驗",
+  "page": 2
+ },
+ "trial": {
+  "meaning": "試驗",
+  "page": 2
+ },
+ "cause": {
+  "meaning": "導致",
+  "page": 3
+ },
+ "trigger": {
+  "meaning": "引發",
+  "page": 3
+ },
+ "induce": {
+  "meaning": "誘發",
+  "page": 3
+ },
+ "spark": {
+  "meaning": "引發",
+  "page": 3
+ },
+ "affect": {
+  "meaning": "影響",
+  "page": 3
+ },
+ "impact": {
+  "meaning": "影響",
+  "page": 3
+ },
+ "alter": {
+  "meaning": "改變",
+  "page": 3
+ },
+ "problem": {
+  "meaning": "問題",
+  "page": 3
+ },
+ "difficulty": {
+  "meaning": "困難",
+  "page": 3
+ },
+ "drawback": {
+  "meaning": "弊端",
+  "page": 3
+ },
+ "defect": {
+  "meaning": "缺陷",
+  "page": 3
+ },
+ "flaw": {
+  "meaning": "瑕疵",
+  "page": 3
+ },
+ "advantage": {
+  "meaning": "優勢",
+  "page": 3
+ },
+ "merit": {
+  "meaning": "優點",
+  "page": 3
+ },
+ "strength": {
+  "meaning": "優勢",
+  "page": 3
+ },
+ "upside": {
+  "meaning": "好處",
+  "page": 3
+ },
+ "virtue": {
+  "meaning": "美德",
+  "page": 3
+ },
+ "disadvantage": {
+  "meaning": "劣勢",
+  "page": 3
+ },
+ "weakness": {
+  "meaning": "弱點",
+  "page": 3
+ },
+ "limitation": {
+  "meaning": "限制",
+  "page": 3
+ },
+ "downside": {
+  "meaning": "弊端",
+  "page": 3
+ },
+ "shortcoming": {
+  "meaning": "缺點",
+  "page": 3
+ },
+ "effect": {
+  "meaning": "影響",
+  "page": 3
+ },
+ "influence": {
+  "meaning": "影響",
+  "page": 3
+ },
+ "consequence": {
+  "meaning": "後果",
+  "page": 3
+ },
+ "outcome": {
+  "meaning": "結果",
+  "page": 3
+ },
+ "result": {
+  "meaning": "結果",
+  "page": 3
+ },
+ "ramification": {
+  "meaning": "影響",
+  "page": 3
+ },
+ "method": {
+  "meaning": "方法",
+  "page": 3
+ },
+ "technique": {
+  "meaning": "技巧",
+  "page": 3
+ },
+ "strategy": {
+  "meaning": "策略",
+  "page": 3
+ },
+ "way": {
+  "meaning": "方法",
+  "page": 3
+ },
+ "mode": {
+  "meaning": "方式",
+  "page": 3
+ },
+ "means": {
+  "meaning": "手段",
+  "page": 3
+ },
+ "evidence": {
+  "meaning": "證據",
+  "page": 3
+ },
+ "data": {
+  "meaning": "數據",
+  "page": 3
+ },
+ "indication": {
+  "meaning": "跡象",
+  "page": 3
+ },
+ "testimony": {
+  "meaning": "證詞",
+  "page": 3
+ },
+ "reason": {
+  "meaning": "原因",
+  "page": 3
+ },
+ "motive": {
+  "meaning": "動機",
+  "page": 3
+ },
+ "rationale": {
+  "meaning": "理由",
+  "page": 3
+ },
+ "ground": {
+  "meaning": "原因",
+  "page": 3
+ },
+ "goal": {
+  "meaning": "目標",
+  "page": 4
+ },
+ "objective": {
+  "meaning": "目標",
+  "page": 4
+ },
+ "purpose": {
+  "meaning": "目的",
+  "page": 4
+ },
+ "target": {
+  "meaning": "目標",
+  "page": 4
+ },
+ "endeavor": {
+  "meaning": "努力目標",
+  "page": 4
+ },
+ "view": {
+  "meaning": "觀點",
+  "page": 4
+ },
+ "belief": {
+  "meaning": "信念",
+  "page": 4
+ },
+ "standpoint": {
+  "meaning": "立場",
+  "page": 4
+ },
+ "perception": {
+  "meaning": "看法",
+  "page": 4
+ },
+ "perspective": {
+  "meaning": "視角",
+  "page": 4
+ },
+ "viewpoint": {
+  "meaning": "觀點",
+  "page": 4
+ },
+ "idea": {
+  "meaning": "想法",
+  "page": 4
+ },
+ "notion": {
+  "meaning": "觀念",
+  "page": 4
+ },
+ "theory": {
+  "meaning": "理論",
+  "page": 4
+ },
+ "thought": {
+  "meaning": "想法",
+  "page": 4
+ },
+ "conception": {
+  "meaning": "構想",
+  "page": 4
+ },
+ "information": {
+  "meaning": "信息",
+  "page": 4
+ },
+ "detail": {
+  "meaning": "細節",
+  "page": 4
+ },
+ "fact": {
+  "meaning": "事實",
+  "page": 4
+ },
+ "intelligence": {
+  "meaning": "情報",
+  "page": 4
+ },
+ "knowledge": {
+  "meaning": "知識",
+  "page": 4
+ },
+ "trend": {
+  "meaning": "趨勢",
+  "page": 4
+ },
+ "pattern": {
+  "meaning": "模式",
+  "page": 4
+ },
+ "tendency": {
+  "meaning": "趨勢",
+  "page": 4
+ },
+ "inclination": {
+  "meaning": "傾向",
+  "page": 4
+ },
+ "risk": {
+  "meaning": "風險",
+  "page": 4
+ },
+ "hazard": {
+  "meaning": "危害",
+  "page": 4
+ },
+ "threat": {
+  "meaning": "威脅",
+  "page": 4
+ },
+ "peril": {
+  "meaning": "危險",
+  "page": 4
+ },
+ "jeopardy": {
+  "meaning": "危險",
+  "page": 4
+ },
+ "pollution": {
+  "meaning": "污染",
+  "page": 4
+ },
+ "poisoning": {
+  "meaning": "毒害",
+  "page": 4
+ },
+ "protection": {
+  "meaning": "保護",
+  "page": 4
+ },
+ "preservation": {
+  "meaning": "保存",
+  "page": 4
+ },
+ "safeguarding": {
+  "meaning": "守護",
+  "page": 4
+ },
+ "extinction": {
+  "meaning": "滅絕",
+  "page": 4
+ },
+ "eradication": {
+  "meaning": "根除",
+  "page": 4
+ },
+ "erosion": {
+  "meaning": "侵蝕",
+  "page": 4
+ },
+ "corrosion": {
+  "meaning": "腐蝕",
+  "page": 4
+ },
+ "resource": {
+  "meaning": "資源",
+  "page": 4
+ },
+ "waste": {
+  "meaning": "廢棄物",
+  "page": 5
+ },
+ "garbage": {
+  "meaning": "垃圾",
+  "page": 5
+ },
+ "debris": {
+  "meaning": "廢棄物",
+  "page": 5
+ },
+ "vegetation": {
+  "meaning": "植被",
+  "page": 5
+ },
+ "flora": {
+  "meaning": "植物區系",
+  "page": 5
+ },
+ "sediment": {
+  "meaning": "沈積物",
+  "page": 5
+ },
+ "silt": {
+  "meaning": "淤泥科技工程",
+  "page": 5
+ },
+ "technology": {
+  "meaning": "技術",
+  "page": 5
+ },
+ "innovation": {
+  "meaning": "創新",
+  "page": 5
+ },
+ "advancement": {
+  "meaning": "進步",
+  "page": 5
+ },
+ "test": {
+  "meaning": "測試",
+  "page": 5
+ },
+ "invention": {
+  "meaning": "發明",
+  "page": 5
+ },
+ "development": {
+  "meaning": "研發",
+  "page": 5
+ },
+ "automation": {
+  "meaning": "自動化",
+  "page": 5
+ },
+ "algorithm": {
+  "meaning": "算法",
+  "page": 5
+ },
+ "sensor": {
+  "meaning": "傳感器",
+  "page": 5
+ },
+ "artificial intelligence": {
+  "meaning": "人工智能",
+  "page": 5
+ },
+ "nanotechnology": {
+  "meaning": "納米技術",
+  "page": 5
+ },
+ "prototype": {
+  "meaning": "原型",
+  "page": 5
+ },
+ "sample": {
+  "meaning": "樣品",
+  "page": 5
+ },
+ "culture": {
+  "meaning": "文化",
+  "page": 6
+ },
+ "tradition": {
+  "meaning": "傳統",
+  "page": 6
+ },
+ "custom": {
+  "meaning": "習俗",
+  "page": 6
+ },
+ "society": {
+  "meaning": "社會",
+  "page": 6
+ },
+ "population": {
+  "meaning": "人口",
+  "page": 6
+ },
+ "history": {
+  "meaning": "歷史",
+  "page": 6
+ },
+ "record": {
+  "meaning": "記錄",
+  "page": 6
+ },
+ "chronicle": {
+  "meaning": "編年史",
+  "page": 6
+ },
+ "practice": {
+  "meaning": "慣例",
+  "page": 6
+ },
+ "values": {
+  "meaning": "價值觀",
+  "page": 6
+ },
+ "principles": {
+  "meaning": "原則教育研究",
+  "page": 6
+ },
+ "education": {
+  "meaning": "教育",
+  "page": 6
+ },
+ "instruction": {
+  "meaning": "指導",
+  "page": 6
+ },
+ "learning": {
+  "meaning": "學習",
+  "page": 6
+ },
+ "investigation": {
+  "meaning": "調查",
+  "page": 6
+ },
+ "inquiry": {
+  "meaning": "探究",
+  "page": 6
+ },
+ "curriculum": {
+  "meaning": "課程",
+  "page": 6
+ },
+ "syllabus": {
+  "meaning": "教學大綱",
+  "page": 6
+ },
+ "program": {
+  "meaning": "課程計劃",
+  "page": 6
+ },
+ "dissertation": {
+  "meaning": "論文",
+  "page": 6
+ },
+ "paper": {
+  "meaning": "論文",
+  "page": 6
+ },
+ "essay": {
+  "meaning": "短文",
+  "page": 6
+ },
+ "methodology": {
+  "meaning": "方法論",
+  "page": 7
+ },
+ "system": {
+  "meaning": "體系",
+  "page": 7
+ },
+ "questionnaire": {
+  "meaning": "問卷",
+  "page": 7
+ },
+ "poll": {
+  "meaning": "民意調查",
+  "page": 7
+ },
+ "example": {
+  "meaning": "例子",
+  "page": 7
+ },
+ "feedback": {
+  "meaning": "反饋",
+  "page": 7
+ },
+ "comment": {
+  "meaning": "評論",
+  "page": 7
+ },
+ "assessment": {
+  "meaning": "評估",
+  "page": 7
+ },
+ "examination": {
+  "meaning": "考試",
+  "page": 7
+ },
+ "internship": {
+  "meaning": "實習",
+  "page": 7
+ },
+ "seminar": {
+  "meaning": "研討會",
+  "page": 7
+ },
+ "business": {
+  "meaning": "商業",
+  "page": 7
+ },
+ "trade": {
+  "meaning": "貿易",
+  "page": 7
+ },
+ "enterprise": {
+  "meaning": "企業",
+  "page": 7
+ },
+ "profit": {
+  "meaning": "利潤",
+  "page": 7
+ },
+ "benefit": {
+  "meaning": "益處",
+  "page": 7
+ },
+ "revenue": {
+  "meaning": "收入",
+  "page": 7
+ },
+ "investment": {
+  "meaning": "投資",
+  "page": 7
+ },
+ "capital": {
+  "meaning": "資本",
+  "page": 7
+ },
+ "financing": {
+  "meaning": "融資",
+  "page": 7
+ },
+ "market": {
+  "meaning": "市場",
+  "page": 7
+ },
+ "industry": {
+  "meaning": "行業",
+  "page": 7
+ },
+ "marketplace": {
+  "meaning": "市場",
+  "page": 7
+ },
+ "expense": {
+  "meaning": "開支",
+  "page": 7
+ },
+ "expenditure": {
+  "meaning": "支出",
+  "page": 7
+ },
+ "outlay": {
+  "meaning": "開支",
+  "page": 7
+ },
+ "marketing": {
+  "meaning": "營銷",
+  "page": 8
+ },
+ "brand": {
+  "meaning": "品牌",
+  "page": 8
+ },
+ "retail": {
+  "meaning": "零售",
+  "page": 8
+ },
+ "wholesale": {
+  "meaning": "批發",
+  "page": 8
+ },
+ "health": {
+  "meaning": "健康",
+  "page": 8
+ },
+ "nutrition": {
+  "meaning": "營養",
+  "page": 8
+ },
+ "disease": {
+  "meaning": "疾病",
+  "page": 8
+ },
+ "sickness": {
+  "meaning": "病痛",
+  "page": 8
+ },
+ "disorder": {
+  "meaning": "失調",
+  "page": 8
+ },
+ "stress": {
+  "meaning": "壓力",
+  "page": 8
+ },
+ "pressure": {
+  "meaning": "壓力",
+  "page": 8
+ },
+ "fatigue": {
+  "meaning": "疲勞",
+  "page": 8
+ },
+ "exhaustion": {
+  "meaning": "精疲力竭",
+  "page": 8
+ },
+ "insomnia": {
+  "meaning": "失眠",
+  "page": 8
+ },
+ "sleeplessness": {
+  "meaning": "失眠",
+  "page": 8
+ },
+ "obesity": {
+  "meaning": "肥胖",
+  "page": 8
+ },
+ "fatness": {
+  "meaning": "肥胖",
+  "page": 8
+ },
+ "important": {
+  "meaning": "重要的",
+  "page": 9
+ },
+ "critical": {
+  "meaning": "關鍵的",
+  "page": 9
+ },
+ "vital": {
+  "meaning": "極其重要的",
+  "page": 9
+ },
+ "essential": {
+  "meaning": "必不可少的",
+  "page": 9
+ },
+ "significant": {
+  "meaning": "重要的",
+  "page": 9
+ },
+ "indispensable": {
+  "meaning": "不可或缺的",
+  "page": 9
+ },
+ "major": {
+  "meaning": "主要的",
+  "page": 9
+ },
+ "primary": {
+  "meaning": "首要的",
+  "page": 9
+ },
+ "principal": {
+  "meaning": "主要的",
+  "page": 9
+ },
+ "chief": {
+  "meaning": "主要的",
+  "page": 9
+ },
+ "dominant": {
+  "meaning": "主導的",
+  "page": 9
+ },
+ "leading": {
+  "meaning": "領先的",
+  "page": 9
+ },
+ "minor": {
+  "meaning": "次要的",
+  "page": 9
+ },
+ "slight": {
+  "meaning": "輕微的",
+  "page": 9
+ },
+ "negligible": {
+  "meaning": "微不足道的",
+  "page": 9
+ },
+ "insignificant": {
+  "meaning": "無足輕重的",
+  "page": 9
+ },
+ "trivial": {
+  "meaning": "瑣碎的",
+  "page": 9
+ },
+ "considerable": {
+  "meaning": "相當大的",
+  "page": 9
+ },
+ "dramatic": {
+  "meaning": "急劇的",
+  "page": 9
+ },
+ "enormous": {
+  "meaning": "巨大的",
+  "page": 9
+ },
+ "remarkable": {
+  "meaning": "顯著的",
+  "page": 9
+ },
+ "noticeable": {
+  "meaning": "明顯的",
+  "page": 9
+ },
+ "extreme": {
+  "meaning": "極端的",
+  "page": 9
+ },
+ "intense": {
+  "meaning": "強烈的",
+  "page": 9
+ },
+ "severe": {
+  "meaning": "嚴重的",
+  "page": 9
+ },
+ "rigid": {
+  "meaning": "嚴格的",
+  "page": 9
+ },
+ "radical": {
+  "meaning": "激進的",
+  "page": 9
+ },
+ "similar": {
+  "meaning": "相似的",
+  "page": 9
+ },
+ "comparable": {
+  "meaning": "可比較的",
+  "page": 9
+ },
+ "analogous": {
+  "meaning": "類似的",
+  "page": 9
+ },
+ "akin": {
+  "meaning": "相近的",
+  "page": 9
+ },
+ "different": {
+  "meaning": "不同的",
+  "page": 9
+ },
+ "diverse": {
+  "meaning": "多樣的",
+  "page": 9
+ },
+ "various": {
+  "meaning": "各種各樣的",
+  "page": 9
+ },
+ "dissimilar": {
+  "meaning": "不相似的",
+  "page": 9
+ },
+ "heterogeneous": {
+  "meaning": "異質的",
+  "page": 9
+ },
+ "same": {
+  "meaning": "相同的",
+  "page": 9
+ },
+ "equivalent": {
+  "meaning": "等同的",
+  "page": 9
+ },
+ "uniform": {
+  "meaning": "統一的",
+  "page": 9
+ },
+ "identical": {
+  "meaning": "一模一樣的",
+  "page": 9
+ },
+ "unique": {
+  "meaning": "唯一的",
+  "page": 9
+ },
+ "only": {
+  "meaning": "唯一的",
+  "page": 9
+ },
+ "exclusive": {
+  "meaning": "獨有的",
+  "page": 9
+ },
+ "singular": {
+  "meaning": "獨特的",
+  "page": 9
+ },
+ "difficult": {
+  "meaning": "困難的",
+  "page": 10
+ },
+ "demanding": {
+  "meaning": "要求高的",
+  "page": 10
+ },
+ "tough": {
+  "meaning": "艱難的",
+  "page": 10
+ },
+ "hard": {
+  "meaning": "困難的",
+  "page": 10
+ },
+ "arduous": {
+  "meaning": "艱巨的",
+  "page": 10
+ },
+ "complex": {
+  "meaning": "複雜的",
+  "page": 10
+ },
+ "sophisticated": {
+  "meaning": "精密的",
+  "page": 10
+ },
+ "intricate": {
+  "meaning": "錯綜複雜的",
+  "page": 10
+ },
+ "simple": {
+  "meaning": "簡單的",
+  "page": 10
+ },
+ "straightforward": {
+  "meaning": "直接的",
+  "page": 10
+ },
+ "uncomplicated": {
+  "meaning": "簡單的",
+  "page": 10
+ },
+ "frequent": {
+  "meaning": "頻繁的",
+  "page": 10
+ },
+ "common": {
+  "meaning": "常見的",
+  "page": 10
+ },
+ "widespread": {
+  "meaning": "普遍的",
+  "page": 10
+ },
+ "prevalent": {
+  "meaning": "盛行的",
+  "page": 10
+ },
+ "constant": {
+  "meaning": "持續的",
+  "page": 10
+ },
+ "rare": {
+  "meaning": "稀有的",
+  "page": 10
+ },
+ "scarce": {
+  "meaning": "稀缺的",
+  "page": 10
+ },
+ "infrequent": {
+  "meaning": "不頻繁的",
+  "page": 10
+ },
+ "odd": {
+  "meaning": "偶然的",
+  "page": 10
+ },
+ "recent": {
+  "meaning": "最近的",
+  "page": 10
+ },
+ "modern": {
+  "meaning": "現代的",
+  "page": 10
+ },
+ "contemporary": {
+  "meaning": "當代的",
+  "page": 10
+ },
+ "latest": {
+  "meaning": "最新的",
+  "page": 10
+ },
+ "ancient": {
+  "meaning": "古老的",
+  "page": 10
+ },
+ "primitive": {
+  "meaning": "原始的",
+  "page": 10
+ },
+ "early": {
+  "meaning": "早期的",
+  "page": 10
+ },
+ "archaic": {
+  "meaning": "古代的",
+  "page": 10
+ },
+ "temporary": {
+  "meaning": "暫時的",
+  "page": 10
+ },
+ "momentary": {
+  "meaning": "瞬間的",
+  "page": 10
+ },
+ "transient": {
+  "meaning": "短暫的",
+  "page": 10
+ },
+ "ephemeral": {
+  "meaning": "轉瞬即逝的",
+  "page": 10
+ },
+ "permanent": {
+  "meaning": "永久的",
+  "page": 10
+ },
+ "lasting": {
+  "meaning": "持久的",
+  "page": 10
+ },
+ "enduring": {
+  "meaning": "耐久的",
+  "page": 10
+ },
+ "perpetual": {
+  "meaning": "永久的",
+  "page": 10
+ },
+ "possible": {
+  "meaning": "可能的",
+  "page": 10
+ },
+ "probable": {
+  "meaning": "很可能的",
+  "page": 10
+ },
+ "potential": {
+  "meaning": "潛在的",
+  "page": 10
+ },
+ "feasible": {
+  "meaning": "可行的",
+  "page": 10
+ },
+ "certain": {
+  "meaning": "確定的",
+  "page": 11
+ },
+ "sure": {
+  "meaning": "確定的",
+  "page": 11
+ },
+ "undoubtedly": {
+  "meaning": "毫無疑問地",
+  "page": 11
+ },
+ "inevitable": {
+  "meaning": "必然的",
+  "page": 11
+ },
+ "uncertain": {
+  "meaning": "不確定的",
+  "page": 11
+ },
+ "dubious": {
+  "meaning": "懷疑的",
+  "page": 11
+ },
+ "questionable": {
+  "meaning": "有問題的",
+  "page": 11
+ },
+ "ambiguous": {
+  "meaning": "模糊的",
+  "page": 11
+ },
+ "greatly": {
+  "meaning": "極大地",
+  "page": 11
+ },
+ "immensely": {
+  "meaning": "極大地",
+  "page": 11
+ },
+ "considerably": {
+  "meaning": "相當地",
+  "page": 11
+ },
+ "substantially": {
+  "meaning": "大幅地",
+  "page": 11
+ },
+ "significantly": {
+  "meaning": "顯著地",
+  "page": 11
+ },
+ "noticeably": {
+  "meaning": "顯著地",
+  "page": 11
+ },
+ "remarkably": {
+  "meaning": "驚人地",
+  "page": 11
+ },
+ "completely": {
+  "meaning": "完全地",
+  "page": 11
+ },
+ "entirely": {
+  "meaning": "全然地",
+  "page": 11
+ },
+ "fully": {
+  "meaning": "充分地",
+  "page": 11
+ },
+ "absolutely": {
+  "meaning": "絕對地",
+  "page": 11
+ },
+ "partly": {
+  "meaning": "部分地",
+  "page": 11
+ },
+ "mostly": {
+  "meaning": "主要地",
+  "page": 11
+ },
+ "largely": {
+  "meaning": "在很大程度上",
+  "page": 11
+ },
+ "finally": {
+  "meaning": "最終地",
+  "page": 11
+ },
+ "eventually": {
+  "meaning": "最後",
+  "page": 11
+ },
+ "initially": {
+  "meaning": "最初地",
+  "page": 11
+ },
+ "firstly": {
+  "meaning": "首先邏輯關係詞",
+  "page": 11
+ },
+ "because": {
+  "meaning": "因為",
+  "page": 11
+ },
+ "so": {
+  "meaning": "所以",
+  "page": 11
+ },
+ "thus": {
+  "meaning": "因此",
+  "page": 11
+ },
+ "hence": {
+  "meaning": "因此",
+  "page": 11
+ },
+ "consequently": {
+  "meaning": "結果",
+  "page": 11
+ },
+ "accordingly": {
+  "meaning": "於是",
+  "page": 11
+ },
+ "but": {
+  "meaning": "但是",
+  "page": 12
+ },
+ "nevertheless": {
+  "meaning": "儘管如此",
+  "page": 12
+ },
+ "nonetheless": {
+  "meaning": "雖然如此",
+  "page": 12
+ },
+ "still": {
+  "meaning": "仍然",
+  "page": 12
+ },
+ "while": {
+  "meaning": "然而",
+  "page": 12
+ },
+ "conversely": {
+  "meaning": "相反地",
+  "page": 12
+ },
+ "although": {
+  "meaning": "儘管",
+  "page": 12
+ },
+ "furthermore": {
+  "meaning": "此外",
+  "page": 12
+ },
+ "moreover": {
+  "meaning": "而且",
+  "page": 12
+ },
+ "besides": {
+  "meaning": "此外",
+  "page": 12
+ },
+ "include": {
+  "meaning": "包括",
+  "page": 12
+ },
+ "contain": {
+  "meaning": "容納",
+  "page": 12
+ },
+ "comprise": {
+  "meaning": "包括",
+  "page": 12
+ },
+ "if": {
+  "meaning": "如果",
+  "page": 12
+ }
+}
